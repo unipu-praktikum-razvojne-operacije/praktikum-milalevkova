@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/compare/v1.0.0...v1.0.1) (2026-10-19)
+
+
+### Bug Fixes
+
+* configure release tag format ([d0b137d](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/commit/d0b137d055b6e1b113d602630b6f253b512ba603))
+
 ## [0.1.0](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/compare/praktikum-milalevkova-v0.0.1...praktikum-milalevkova-v0.1.0) (2026-10-19)
 
 
