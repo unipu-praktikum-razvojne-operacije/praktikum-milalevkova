@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/compare/v1.0.1...v1.1.0) (2026-10-25)
+
+
+### Features
+
+* add Ollama client, CLI and tests ([58340f4](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/commit/58340f4383782aaf0b846f1b7544f4b8a5572781))
+* add Ollama client, CLI and tests ([cf2fbf5](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/commit/cf2fbf5d8ea43c81c7a9fb90fc22d895af460bd1))
+
 ## [1.0.1](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-milalevkova/compare/v1.0.0...v1.0.1) (2026-10-19)
 
 
